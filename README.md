@@ -1,2 +1,2 @@
 # tddcapacitacion
-Un proyecto java simple que utiliza gradle y está listo para implementar las pruebas del ejercicio de la capacitación TDD
+Un proyecto java simple que utiliza gradle. Este proyecto está listo para implementar las pruebas del ejercicio de la capacitación TDD.
