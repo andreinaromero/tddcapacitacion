@@ -11,7 +11,7 @@ jar {
 
 dependencies {
     compile group: 'commons-collections', name: 'commons-collections', version: '3.2'
-    testCompile fileTree(dir: "libs/", include: 'junit-4.12.jar')
+    testCompile fileTree(dir: "libs/", include: '*.jar')
 }
 
 test {
